@@ -1,4 +1,4 @@
-### Extract the content contained in multiple web page links and convert it into a PDF file.
+### Extract the content contained in multiple web page links and convert to PDF files.
 
 -The web page URLs are saved in **links.txt**.
 
